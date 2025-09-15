@@ -2,7 +2,11 @@
 
 # Key Features & Skills:
 Add spending and income transactions with category tracking
+
 View current balance and spending summaries by category
+
 Predict next month’s spending using simple averaging (predictive logic)
+
 Built using Java OOP principles, ArrayList and HashMap for data handling
+
 Console-based interface demonstrating user interaction and program flow
